@@ -1,0 +1,101 @@
+body{
+    background-image: url(stars.jpg);
+}
+
+.text {
+    height: 100px;
+    width: 900px;
+    border-bottom: 2px solid #ffffff;
+    border-left: 2px solid #ffffff;
+    border-right: 2px solid #ffffff;
+    border-top: 2px solid rgb(255, 255, 255);
+    position: absolute;
+    left: 20%;
+    bottom: 70%;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.884);
+    font-size: 100px;
+}
+
+.Sat{
+    position: relative;
+    top: 100px;
+}
+
+.St{
+    height: 360px;
+    width: 750px;
+    border-bottom: 2px solid #ffffff;
+    border-left: 2px solid #ffffff;
+    border-right: 2px solid #ffffff;
+    border-top: 2px solid rgb(255, 255, 255);
+    position: absolute;
+    right: 55px;
+    top: 200px;
+    color: #ffffff;
+}
+
+.whaa{
+    height: 50px;
+    width: 650px;
+    border-bottom: 2px solid #ffffff;
+    border-left: 2px solid #ffffff;
+    border-right: 2px solid #ffffff;
+    border-top: 2px solid rgb(255, 255, 255);
+    position: absolute;
+    right: 800px;
+    top: 700px;
+    color: #ffffff;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.why{
+    height: 360px;
+    width: 650px;
+    border-bottom: 2px solid #ffffff;
+    border-left: 2px solid #ffffff;
+    border-right: 2px solid #ffffff;
+    border-top: 2px solid rgb(255, 255, 255);
+    position: absolute;
+    right: 800px;
+    top: 800px;
+    color: #ffffff;  
+}
+
+.ins{
+    position: relative;
+    top: 400px;
+    left: 750px;
+}
+
+.FOOT{
+    text-align: center;
+    background-color: #636262;
+    text-decoration-color: black;
+    position: relative;
+    top: 500px;
+}
+
+.star{
+    position: relative;
+    top: 700px;
+}
+
+.home {
+    height: 40px;
+    width: 100px;
+    text-align: center;
+    font-size: xx-large;
+    border-bottom: 2px solid #ffffff;
+    border-left: 2px solid #ffffff;
+    border-right: 2px solid #ffffff;
+    border-top: 2px solid rgb(255, 255, 255);
+    position: absolute;
+    right: 5%;
+    top: 4%;
+}
+
+a {
+    color: rgb(190, 174, 206); /* Change the link color to blue */
+}

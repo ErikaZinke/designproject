@@ -1,0 +1,85 @@
+body{
+    background-image: url(stars.jpg)
+}
+
+
+
+.text {
+    height: 100px;
+    width: 900px;
+    border-bottom: 2px solid #ffffff;
+    border-left: 2px solid #ffffff;
+    border-right: 2px solid #ffffff;
+    border-top: 2px solid rgb(255, 255, 255);
+    position: absolute;
+    left: 20%;
+    bottom: 70%;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.884);
+    font-size: 100px;
+}
+
+.Jupiter{
+    position: relative;
+    top: 30px;
+    left: 250px;
+}
+
+.Saturn{
+    position: relative;
+    top: 30px;
+    left: 380px;
+}
+
+.Mars{
+    position: relative;
+    top: 580px;
+    right: 650px;
+}
+
+
+
+
+.lj{
+    position: relative;
+    bottom: 150px;
+    left: 390px;
+    font-size: xxx-large;
+    color:rgba(255, 255, 255, 0.733);
+    text-decoration: none;
+}
+
+.ls{
+    position: relative;
+    bottom: 150px;
+    left: 840px;
+    font-size: xxx-large;
+    color:rgba(255, 255, 255, 0.733);
+    text-decoration: none;
+}
+
+.Mt{
+    position: relative;
+    bottom: 48px;
+    left: 800px;
+    color: #ffffff;
+    height: 360px;
+    width: 550px;
+    border-bottom: 2px solid #ffffff;
+    border-left: 2px solid #ffffff;
+    border-right: 2px solid #ffffff;
+    border-top: 2px solid rgb(255, 255, 255);
+}
+
+
+.FOOT{
+    text-align: center;
+    background-color: #636262;
+    text-decoration-color: black;
+    position: relative;
+    top: 30px;
+}
+
+a {
+    color: rgb(190, 174, 206); /* Change the link color to blue */
+}

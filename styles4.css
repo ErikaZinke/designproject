@@ -1,0 +1,122 @@
+body{
+    background-image: url(stars.jpg);
+}
+
+.text {
+    height: 100px;
+    width: 900px;
+    border-bottom: 2px solid #ffffff;
+    border-left: 2px solid #ffffff;
+    border-right: 2px solid #ffffff;
+    border-top: 2px solid rgb(255, 255, 255);
+    position: absolute;
+    left: 20%;
+    bottom: 70%;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.884);
+    font-size: 100px;
+}
+
+.mars{
+    position: relative;
+    top: 100px;
+    left: 40px;
+}
+
+.mt{
+    height: 350px;
+    width: 700px;
+    border-bottom: 2px solid #ffffff;
+    border-left: 2px solid #ffffff;
+    border-right: 2px solid #ffffff;
+    border-top: 2px solid rgb(255, 255, 255);
+    position: absolute;
+    right: 135px;
+    top: 230px;
+    color: #ffffff;
+}
+
+.moons{
+    height: 100px;
+    width: 900px;
+    border-bottom: 2px solid #ffffff;
+    border-left: 2px solid #ffffff;
+    border-right: 2px solid #ffffff;
+    border-top: 2px solid rgb(255, 255, 255);
+    position: absolute;
+    left: 20%;
+    top: 80%;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.884);
+    font-size: 100px
+}
+
+.phobos{
+    position: relative;
+    top: 300px;
+    left: 300px;
+}
+
+.deimos{
+    position: relative;
+    top: 300px;
+    left: 500px;    
+}
+
+.pt{
+    height: 200px;
+    width: 500px;
+    border-bottom: 2px solid #ffffff;
+    border-left: 2px solid #ffffff;
+    border-right: 2px solid #ffffff;
+    border-top: 2px solid rgb(255, 255, 255);
+    position: absolute;
+    left: 200px;
+    top: 1150px;
+    color: #ffffff;    
+}
+
+.dt{
+    height: 200px;
+    width: 500px;
+    border-bottom: 2px solid #ffffff;
+    border-left: 2px solid #ffffff;
+    border-right: 2px solid #ffffff;
+    border-top: 2px solid rgb(255, 255, 255);
+    position: absolute;
+    left: 800px;
+    top: 1150px;
+    color: #ffffff;    
+}
+
+
+.FOOT{
+    text-align: center;
+    background-color: #636262;
+    text-decoration-color: black;
+    position: relative;
+    top: 550px;
+}
+
+.home {
+    height: 40px;
+    width: 100px;
+    text-align: center;
+    font-size: xx-large;
+    border-bottom: 2px solid #ffffff;
+    border-left: 2px solid #ffffff;
+    border-right: 2px solid #ffffff;
+    border-top: 2px solid rgb(255, 255, 255);
+    position: absolute;
+    right: 5%;
+    top: 4%;
+}
+
+a {
+    color: rgb(190, 174, 206); /* Change the link color to blue */
+}
+
+.star{
+    position: relative;
+    top: 650px;
+}
